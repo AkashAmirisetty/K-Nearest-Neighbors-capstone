@@ -3,7 +3,7 @@
 This project demonstrates how to implement and apply the **K-Nearest Neighbors (KNN)** algorithm using Python and real-world data. It is part of a machine learning capstone exercise, showcasing data preprocessing, model training, and evaluation techniques.
 
 ## 📁 Project Structure
-
+```
 K-Nearest-Neighbors-capstone-main/
 │
 ├── K Nearest Neighbors Project.ipynb # Main implementation notebook
@@ -11,7 +11,7 @@ K-Nearest-Neighbors-capstone-main/
 ├── Classified Data/ # Supplementary dataset folder
 ├── KNN_Project_Data/ # Primary dataset folder
 └── .ipynb_checkpoints/ # Auto-saved notebook states
-
+```
 
 ## 📌 What I Learnt from this
 
