@@ -32,6 +32,6 @@ K-Nearest-Neighbors-capstone-main/
 - scikit-learn
 
 ## 📊 Sample Outputs
-Confusion Matrix
-Classification Report
+Confusion Matrix,
+Classification Report,
 Accuracy and error plots by K value
